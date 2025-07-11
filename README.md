@@ -99,6 +99,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [ParrotXray/pycord-quart](https://github.com/ParrotXray/pycord-quart)<br>
+2. 📔 Created new repository [ParrotXray/pycord-quart](https://github.com/ParrotXray/pycord-quart)<br>
+3. ⭐ Starred [pudding0503/github-badge-collection](https://github.com/pudding0503/github-badge-collection)<br>
+4. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
+5. ⭐ Starred [NFU-OpenDataStructure/NFU-DS-ReferenceSolution](https://github.com/NFU-OpenDataStructure/NFU-DS-ReferenceSolution)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
