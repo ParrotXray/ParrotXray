@@ -1,0 +1,24 @@
+# .github/workflows/update-activity-v2.yml
+name: Update Recent Activity
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: '.github/recent-activity.config.yml'
