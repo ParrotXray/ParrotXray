@@ -6,11 +6,11 @@ permissions:
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
-  #push:
-  #  branches:
-  #    - main
+  push:
+   branches:
+     - main
 
 jobs:
   recent-activity:
