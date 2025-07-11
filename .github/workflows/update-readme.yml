@@ -1,30 +1,18 @@
 # .github/workflows/update-readme.yml
 name: Update README
-
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updated README with recent activity'
-          MAX_LINES: 5
