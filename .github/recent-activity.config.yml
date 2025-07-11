@@ -1,12 +1,10 @@
 # .github/recent-activity.config.yml
 settings:
   username: "ParrotXray"
-  commit_msg: "Updated README with recent activity"
+  commit_msg: "🔥 Updated README with recent activity"
   max_lines: 5
   readme_file: "./README.md"
-  disabled_events:
-    - "comments"
-    - "wiki" 
+  disabled_events: []
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+08:00"
@@ -33,3 +31,5 @@ messages:
   changes_requested: "🔴 Requested changes in {ID} in {REPO}"
   new_release: "🚀 Released {ID} in {REPO}"
   new_star: "⭐ Starred {REPO}"
+  create_branch: "🌿 Created branch in {REPO}"
+  delete_branch: "🗑️ Deleted branch in {REPO}"
