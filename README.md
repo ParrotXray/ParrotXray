@@ -45,7 +45,7 @@ const ParrotXray = {
 
 ## 📈 Detailed GitHub Metrics
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%"/>
 </div>
 
 ## 🏆 GitHub Trophies
