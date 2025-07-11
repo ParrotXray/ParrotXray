@@ -104,8 +104,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-quart](https://github.com/ParrotXray/pycord-quart)<br>
+2. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
 3. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
