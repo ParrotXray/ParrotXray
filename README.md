@@ -43,6 +43,11 @@ const ParrotXray = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParrotXray&theme=tokyonight" alt="ParrotXray's streak"/>
 </div>
 
+## 📈 Detailed GitHub Metrics
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ParrotXray&theme=tokyonight&row=1&column=7" alt="ParrotXray's trophies"/>
