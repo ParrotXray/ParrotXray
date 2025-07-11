@@ -16,10 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Update README
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Update README with Recent Activity
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Updated with recent activity'
-          MAX_LINES: 5
+          CONFIG_FILE: '.github/recent-activity.config.yml'
