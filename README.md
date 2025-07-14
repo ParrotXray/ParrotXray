@@ -20,8 +20,7 @@ const ParrotXray = {
         backEnd: {
             js: ["Node.js"],
             python: ["FastAPI", "Flask"],
-            rust: ["Actix-web", "Rocket"],
-            java: ["Spring Boot", "Spring Cloud"]
+            rust: ["Actix-web", "Rocket"]
         },
         databases: ["MongoDB", "MySQL", "MariaDB", "SQLite"],
         tools: ["Docker", "Kubernetes", "Proxmox VE", "VMware ESXi", "Apache CloudStack", "Git"],
