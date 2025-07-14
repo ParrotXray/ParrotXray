@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
-2. ⭐ Starred [Xhost-tw/panel](https://github.com/Xhost-tw/panel)<br>
-3. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-quart](https://github.com/ParrotXray/pycord-quart)<br>
-4. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
-5. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+2. 💬 Commented on [#1](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide/issues/1#issuecomment-3069153144) in [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+4. ⭐ Starred [Xhost-tw/panel](https://github.com/Xhost-tw/panel)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-quart](https://github.com/ParrotXray/pycord-quart)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
