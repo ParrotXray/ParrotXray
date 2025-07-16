@@ -107,7 +107,7 @@ const ParrotXray = {
 2. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
 3. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
-5. 💬 Commented on [#1](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide/issues/1#issuecomment-3076811430) in [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
