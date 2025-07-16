@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/ParrotXray/ParrotXray/issues/1) in [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
-2. ❗️ Opened issue [#1](https://github.com/ParrotXray/ParrotXray/issues/1) in [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
-3. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
-4. 🎯 Pushed 14 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
-5. 🎉 Merged PR [#2](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide/pull/2) in [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+1. 💬 Commented on [#1](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide/issues/1#issuecomment-3076811430) in [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+2. ✔️ Closed issue [#1](https://github.com/ParrotXray/ParrotXray/issues/1) in [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+3. ❗️ Opened issue [#1](https://github.com/ParrotXray/ParrotXray/issues/1) in [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
+5. 🎯 Pushed 14 commit(s) to [ParrotXray/CloudStack-4.20.0-Installation-Guide](https://github.com/ParrotXray/CloudStack-4.20.0-Installation-Guide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
