@@ -132,3 +132,7 @@ const ParrotXray = {
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ParrotXray.ParrotXray&left_color=gray&right_color=blue)
 
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
