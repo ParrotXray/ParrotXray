@@ -103,8 +103,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Shinbatsu/git-tips](https://github.com/Shinbatsu/git-tips)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+1. ⭐ Starred [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code)<br>
+2. ⭐ Starred [Shinbatsu/git-tips](https://github.com/Shinbatsu/git-tips)<br>
 3. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
