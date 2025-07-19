@@ -23,7 +23,7 @@ const ParrotXray = {
             rust: ["Actix-web", "Rocket"]
         },
         databases: ["MongoDB", "MySQL", "MariaDB", "SQLite"],
-        tools: ["Docker", "Kubernetes", "Proxmox VE", "VMware ESXi", "Apache CloudStack", "Git"],
+        tools: ["Docker", "Git"],
         virtualization: ["Proxmox VE", "VMware ESXi", "Apache CloudStack"]
     },
     currentFocus: "Building scalable web applications with Rust & React",
