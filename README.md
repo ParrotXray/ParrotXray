@@ -103,10 +103,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
-3. ⭐ Starred [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
-4. 🎯 Pushed 1 commit(s) to [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
+1. ⭐ Starred [xdp-project/xdp-tools](https://github.com/xdp-project/xdp-tools)<br>
+2. ⭐ Starred [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
+4. ⭐ Starred [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/xdp-protection](https://github.com/ParrotXray/xdp-protection)<br>
 <!--RECENT_ACTIVITY:end-->
 
