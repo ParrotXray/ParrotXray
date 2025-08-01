@@ -105,9 +105,9 @@ const ParrotXray = {
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 2. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
-3. 🎯 Pushed 1 commit(s) to [ParrotXray/ListOperationsKit](https://github.com/ParrotXray/ListOperationsKit)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/ListOperationsKit](https://github.com/ParrotXray/ListOperationsKit)<br>
-5. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/ListOperationsKit](https://github.com/ParrotXray/ListOperationsKit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
