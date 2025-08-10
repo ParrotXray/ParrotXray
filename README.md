@@ -104,9 +104,9 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
-2. ⭐ Starred [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS)<br>
-3. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
-4. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+2. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+3. ⭐ Starred [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS)<br>
+4. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
