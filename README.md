@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+1. ⭐ Starred [DiscordHubDev/DiscordHub](https://github.com/DiscordHubDev/DiscordHub)<br>
+2. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
 3. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
-4. ⭐ Starred [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS)<br>
-5. ⭐ Starred [resend/react-email](https://github.com/resend/react-email)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+5. ⭐ Starred [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
