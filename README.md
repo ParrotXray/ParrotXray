@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 2 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-2. 🍴 Forked [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin) from [hoyiliang/lavabili-plugin](https://github.com/hoyiliang/lavabili-plugin)<br>
-3. ⭐ Starred [hoyiliang/lavabili-plugin](https://github.com/hoyiliang/lavabili-plugin)<br>
-4. ⭐ Starred [DiscordHubDev/DiscordHub](https://github.com/DiscordHubDev/DiscordHub)<br>
-5. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 📔 Created new repository [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+3. 🎯 Pushed 5 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+4. 🎉 Merged PR [#1](https://github.com/ParrotXray/lavabili-plugin/pull/1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. 💪 Opened PR [#1](https://github.com/ParrotXray/lavabili-plugin/pull/1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
