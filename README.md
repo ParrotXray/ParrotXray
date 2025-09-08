@@ -103,10 +103,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [1.0.0](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.0) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-3. 🚀 Released [1.0.0](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.0) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-4. 🚀 Released [1.0.0](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.0) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 🚀 Released [1.0.0](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.0) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
