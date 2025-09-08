@@ -103,10 +103,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hoyiliang/lavabili-plugin](https://github.com/hoyiliang/lavabili-plugin)<br>
-2. ⭐ Starred [DiscordHubDev/DiscordHub](https://github.com/DiscordHubDev/DiscordHub)<br>
-3. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
-4. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
+1. 🍴 Forked [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin) from [hoyiliang/lavabili-plugin](https://github.com/hoyiliang/lavabili-plugin)<br>
+2. ⭐ Starred [hoyiliang/lavabili-plugin](https://github.com/hoyiliang/lavabili-plugin)<br>
+3. ⭐ Starred [DiscordHubDev/DiscordHub](https://github.com/DiscordHubDev/DiscordHub)<br>
+4. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/NFU-DataStructure](https://github.com/ParrotXray/NFU-DataStructure)<br>
 <!--RECENT_ACTIVITY:end-->
 
