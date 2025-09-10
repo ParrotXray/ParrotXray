@@ -103,9 +103,9 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v0.1.4](https://github.com/ParrotXray/pycord-ipc/releases/tag/v0.1.4) in [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
 2. 🚀 Released [v0.1.4](https://github.com/ParrotXray/pycord-ipc/releases/tag/v0.1.4) in [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
-3. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
+3. 🚀 Released [v0.1.4](https://github.com/ParrotXray/pycord-ipc/releases/tag/v0.1.4) in [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
 5. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
 <!--RECENT_ACTIVITY:end-->
