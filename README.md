@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+1. 🚀 Released [1.0.3](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.3) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 2. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-3. 🚀 Released [v0.1.5](https://github.com/ParrotXray/pycord-ipc/releases/tag/v0.1.5) in [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
-4. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
-5. 🎯 Pushed 1 commit(s) to [ParrotXray/pycord-ipc](https://github.com/ParrotXray/pycord-ipc)<br>
+3. 🚀 Released [1.0.3](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.0.3) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
