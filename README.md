@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [1.1.0](https://github.com/ParrotXray/Lavabili/releases/tag/1.1.0) in [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
-3. 🎯 Pushed 7 commit(s) to [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
-4. 🎉 Merged PR [#1](https://github.com/ParrotXray/Lavabili/pull/1) in [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
-5. 💬 Commented on [#1](https://github.com/ParrotXray/Lavabili/pull/1#issuecomment-3278535669) in [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
+1. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 🚀 Released [1.1.0](https://github.com/ParrotXray/Lavabili/releases/tag/1.1.0) in [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
+4. 🎯 Pushed 7 commit(s) to [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
+5. 🎉 Merged PR [#1](https://github.com/ParrotXray/Lavabili/pull/1) in [ParrotXray/Lavabili](https://github.com/ParrotXray/Lavabili)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
