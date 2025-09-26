@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-2. ⭐ Starred [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)<br>
-3. ⭐ Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)<br>
+1. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+3. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 4. 🎯 Pushed 1 commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-5. 🚀 Released [1.3.0](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.0) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
