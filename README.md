@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
-2. ⭐ Starred [sinyuan1022/NetDefender](https://github.com/sinyuan1022/NetDefender)<br>
-3. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-4. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-5. 🚀 Released [1.3.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.3.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+1. 🚀 Released [v1.0.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.0.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🎯 Pushed 1 commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🚀 Released [v1.0.2](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.0.2) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
