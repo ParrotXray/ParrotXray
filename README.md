@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-2. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-3. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-4. ⭐ Starred [calledhxx/Mione](https://github.com/calledhxx/Mione)<br>
-5. 🚀 Released [v1.1.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.1.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🎯 Pushed 5 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+2. 🎉 Merged PR [#2](https://github.com/ParrotXray/CureOS/pull/2) in [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+3. 💪 Opened PR [#2](https://github.com/ParrotXray/CureOS/pull/2) in [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+5. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
