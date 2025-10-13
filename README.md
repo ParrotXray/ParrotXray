@@ -105,9 +105,9 @@ const ParrotXray = {
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 2. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-3. 🎯 Pushed 5 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-4. 🎉 Merged PR [#2](https://github.com/ParrotXray/CureOS/pull/2) in [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-5. 💪 Opened PR [#2](https://github.com/ParrotXray/CureOS/pull/2) in [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+3. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+4. 🎯 Pushed 1 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+5. 🎯 Pushed 5 commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
