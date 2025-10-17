@@ -107,7 +107,7 @@ const ParrotXray = {
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-5. ❌ Closed PR [#5](undefined) in [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
