@@ -105,9 +105,9 @@ const ParrotXray = {
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-3. ⭐ Starred [SauravMaheshkar/os1](https://github.com/SauravMaheshkar/os1)<br>
-4. ⭐ Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+4. ⭐ Starred [SauravMaheshkar/os1](https://github.com/SauravMaheshkar/os1)<br>
+5. ⭐ Starred [phil-opp/blog_os](https://github.com/phil-opp/blog_os)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
