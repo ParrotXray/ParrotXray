@@ -103,9 +103,9 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v1.2.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.2.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🚀 Released [v1.3.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.3.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. 💪 Opened PR [#1](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 💪 Opened PR [#2](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
