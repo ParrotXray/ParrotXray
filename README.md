@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)<br>
-2. 🚀 Released [v1.5.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.5.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 💪 Opened PR [#8](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ⭐ Starred [taigaio/taiga-docker](https://github.com/taigaio/taiga-docker)<br>
+2. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)<br>
+3. 🚀 Released [v1.5.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.5.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 💪 Opened PR [#8](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
