@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
+1. 💬 Commented on [#1](https://github.com/AvianJay/DCTWFlet/pull/1#issuecomment-3497427497) in [AvianJay/DCTWFlet](https://github.com/AvianJay/DCTWFlet)<br>
+2. 💬 Commented on [#1](https://github.com/AvianJay/DCTWFlet/pull/1#issuecomment-3497401923) in [AvianJay/DCTWFlet](https://github.com/AvianJay/DCTWFlet)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
+5. 💪 Opened PR [#1](undefined) in [ParrotXray/dctwflet](https://github.com/ParrotXray/dctwflet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
