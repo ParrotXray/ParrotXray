@@ -106,8 +106,8 @@ const ParrotXray = {
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
-4. 💬 Commented on [#1](https://github.com/AvianJay/DCTWFlet/pull/1#issuecomment-3501186005) in [AvianJay/DCTWFlet](https://github.com/AvianJay/DCTWFlet)<br>
-5. 💬 Commented on [#1](https://github.com/AvianJay/DCTWFlet/pull/1#issuecomment-3497427497) in [AvianJay/DCTWFlet](https://github.com/AvianJay/DCTWFlet)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
