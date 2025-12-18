@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink)<br>
-2. 🍴 Forked [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink) from [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 🚀 Released [v1.5.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.5.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ⭐ Starred [gao-sun/eul](https://github.com/gao-sun/eul)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink)<br>
+3. 🍴 Forked [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink) from [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🚀 Released [v1.5.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.5.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
