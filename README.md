@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AlDanial/cloc](https://github.com/AlDanial/cloc)<br>
-2. ⭐ Starred [gao-sun/eul](https://github.com/gao-sun/eul)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink)<br>
-4. 🍴 Forked [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink) from [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ⭐ Starred [hi-ma-san/Qt_11401_1](https://github.com/hi-ma-san/Qt_11401_1)<br>
+2. ⭐ Starred [AlDanial/cloc](https://github.com/AlDanial/cloc)<br>
+3. ⭐ Starred [gao-sun/eul](https://github.com/gao-sun/eul)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink)<br>
+5. 🍴 Forked [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink) from [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
