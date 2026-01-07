@@ -103,11 +103,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#56](https://github.com/ryanx0621/Atlas-World/issues/56#issuecomment-3713719581) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-2. ❗️ Opened issue [#56](https://github.com/ryanx0621/Atlas-World/issues/56) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-3. 💬 Commented on [#6](https://github.com/ryanx0621/Atlas-World/issues/6#issuecomment-3712913637) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-4. ❗️ Opened issue [#7](https://github.com/ryanx0621/Atlas-World/issues/7) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-5. ⭐ Starred [hi-ma-san/Qt_11401_1](https://github.com/hi-ma-san/Qt_11401_1)<br>
+1. ⭐ Starred [shirakamiNeko/discord-app-2023](https://github.com/shirakamiNeko/discord-app-2023)<br>
+2. ⭐ Starred [heilcheng/heilcheng.github.io](https://github.com/heilcheng/heilcheng.github.io)<br>
+3. 💬 Commented on [#233](https://github.com/ryanx0621/Atlas-World/issues/233#issuecomment-3716828259) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
+4. ⭐ Starred [Matrix-Meta/PNB](https://github.com/Matrix-Meta/PNB)<br>
+5. ❗️ Opened issue [#140](https://github.com/ryanx0621/Atlas-World/issues/140) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
