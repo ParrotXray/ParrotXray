@@ -103,10 +103,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#394](https://github.com/ryanx0621/Atlas-World/issues/394) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-2. ❗️ Opened issue [#393](https://github.com/ryanx0621/Atlas-World/issues/393) in [ryanx0621/Atlas-World](https://github.com/ryanx0621/Atlas-World)<br>
-3. ⭐ Starred [xu-0306/STT_extension](https://github.com/xu-0306/STT_extension)<br>
-4. ❌ Closed PR [#13](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🚀 Released [v1.6.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.6.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 💪 Opened PR [#14](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
