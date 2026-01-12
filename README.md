@@ -104,10 +104,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. 🚀 Released [v1.6.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.6.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 💪 Opened PR [#14](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🚀 Released [v1.6.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.6.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
