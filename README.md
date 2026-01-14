@@ -34,12 +34,12 @@ const ParrotXray = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParrotXray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParrotXray&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParrotXray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParrotXray&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParrotXray&theme=tokyonight" alt="ParrotXray's streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ParrotXray&theme=tokyonight" alt="ParrotXray's streak"/>
 </div>
 
 ## 📈 Detailed GitHub Metrics
@@ -47,9 +47,10 @@ const ParrotXray = {
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParrotXray&theme=tokyonight&row=1&column=7" alt="ParrotXray's trophies"/>
+  <img src="https://github-profile-trophy-git-master-ryo-mas-projects.vercel.app/?username=ParrotXray&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="ParrotXray's trophies"/>
 </div>
 
 ## 💻 Tech Stack
@@ -58,7 +59,7 @@ const ParrotXray = {
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
