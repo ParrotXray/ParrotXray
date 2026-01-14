@@ -1,7 +1,7 @@
 # .github/recent-activity.config.yml
 settings:
   username: "ParrotXray"
-  commit_msg: "🔥 Updated README with recent activity"
+  commit_msg: "Updated README with recent activity"
   max_lines: 5
   readme_file: "./README.md"
   disabled_events: []
