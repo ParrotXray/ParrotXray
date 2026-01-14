@@ -34,8 +34,12 @@ const ParrotXray = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ParrotXray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ParrotXray&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParrotXray&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParrotXray&theme=tokyonight" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParrotXray&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -50,7 +54,7 @@ const ParrotXray = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy-git-master-ryo-mas-projects.vercel.app/?username=ParrotXray&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="ParrotXray's trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ParrotXray&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="ParrotXray's trophies"/>
 </div>
 
 ## 💻 Tech Stack
