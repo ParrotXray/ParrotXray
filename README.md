@@ -43,7 +43,7 @@ const ParrotXray = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ParrotXray&theme=tokyonight&hide_border=true&card_width=685&card_height=255" alt="ParrotXray's streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ParrotXray&theme=tokyonight&hide_border=true&card_width=685&card_height=215" alt="ParrotXray's streak"/>
 </div>
 
 ## 📈 Detailed GitHub Metrics
