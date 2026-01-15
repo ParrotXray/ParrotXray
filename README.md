@@ -111,7 +111,7 @@ const ParrotXray = {
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
-4. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 5. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
 <!--RECENT_ACTIVITY:end-->
 
