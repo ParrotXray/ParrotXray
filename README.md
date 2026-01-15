@@ -54,7 +54,7 @@ const ParrotXray = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParrotXray&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="ParrotXray's trophies"/>
+  <img src="https://trophygh.kolioaris.xyz/?username=ParrotXray&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="ParrotXray's trophies"/>
 </div>
 
 ## 💻 Tech Stack
