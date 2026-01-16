@@ -108,8 +108,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15](https://github.com/ParrotXray/lava-lyra/pull/15#issuecomment-3753574994) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+1. ⭐ Starred [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)<br>
+2. 💬 Commented on [#15](https://github.com/ParrotXray/lava-lyra/pull/15#issuecomment-3753574994) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
