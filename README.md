@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dnobori/DN_SuperBook_PDF_Converter](https://github.com/dnobori/DN_SuperBook_PDF_Converter)<br>
-2. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
-3. ⭐ Starred [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)<br>
-4. 💬 Commented on [#15](https://github.com/ParrotXray/lava-lyra/pull/15#issuecomment-3753574994) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/ParrotXray](https://github.com/ParrotXray/ParrotXray)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
