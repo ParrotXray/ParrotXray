@@ -108,7 +108,7 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
+1. ⭐ Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)<br>
 2. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
 3. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
 4. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
