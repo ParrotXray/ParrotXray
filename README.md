@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)<br>
-2. ⭐ Starred [bgreenwell/doxx](https://github.com/bgreenwell/doxx)<br>
-3. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
-5. ⭐ Starred [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+3. 💪 Opened PR [#3](undefined) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+4. 🚀 Released [1.0.0](https://github.com/ParrotXray/NetGuardia-ML/releases/tag/1.0.0) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/tensorflow-onnx](https://github.com/ParrotXray/tensorflow-onnx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
