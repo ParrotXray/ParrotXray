@@ -110,9 +110,9 @@ const ParrotXray = {
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-3. 💪 Opened PR [#3](undefined) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-4. 🚀 Released [1.0.0](https://github.com/ParrotXray/NetGuardia-ML/releases/tag/1.0.0) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/tensorflow-onnx](https://github.com/ParrotXray/tensorflow-onnx)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+5. 💪 Opened PR [#3](undefined) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
