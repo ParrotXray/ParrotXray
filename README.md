@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
-5. 💪 Opened PR [#3](undefined) in [ParrotXray/NetGuardia-ML](https://github.com/ParrotXray/NetGuardia-ML)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
