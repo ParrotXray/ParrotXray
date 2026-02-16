@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [ParrotXray/LavaSrc](https://github.com/ParrotXray/LavaSrc) from [topi314/LavaSrc](https://github.com/topi314/LavaSrc)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ⭐ Starred [Nazha-Team/Lavasrc](https://github.com/Nazha-Team/Lavasrc)<br>
+2. 🍴 Forked [ParrotXray/LavaSrc](https://github.com/ParrotXray/LavaSrc) from [topi314/LavaSrc](https://github.com/topi314/LavaSrc)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 💪 Opened PR [#175](undefined) in [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/NodeLink](https://github.com/ParrotXray/NodeLink)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 💪 Opened PR [#175](undefined) in [PerformanC/NodeLink](https://github.com/PerformanC/NodeLink)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
