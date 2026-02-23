@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v1.6.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.6.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. ⭐ Starred [menya-torikin/menya-torikin.github.io](https://github.com/menya-torikin/menya-torikin.github.io)<br>
+1. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
+2. ⭐ Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)<br>
+3. 🚀 Released [v1.6.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.6.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 👍 Approved [#17](https://github.com/ParrotXray/lava-lyra/pull/17#pullrequestreview-3829765165) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. ⭐ Starred [menya-torikin/menya-torikin.github.io](https://github.com/menya-torikin/menya-torikin.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
