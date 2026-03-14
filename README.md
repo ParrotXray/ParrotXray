@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v1.8.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.8.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🚀 Released [v1.8.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.8.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. ❌ Closed PR [#20](undefined) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. ⭐ Starred [DaLaw2/async-gpu](https://github.com/DaLaw2/async-gpu)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🚀 Released [v1.8.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.8.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
