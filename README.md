@@ -108,10 +108,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 👍 Approved [#23](https://github.com/ParrotXray/lava-lyra/pull/23#pullrequestreview-3954508610) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 👍 Approved [#22](https://github.com/ParrotXray/lava-lyra/pull/22#pullrequestreview-3949777084) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+2. 💪 Opened PR [#10](undefined) in [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+3. 💪 Opened PR [#13](undefined) in [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
+4. 🎯 Pushed undefined commit(s) to [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
