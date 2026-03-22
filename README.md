@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
-2. 💪 Opened PR [#10](undefined) in [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
+1. 🚀 Released [v1.9.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v1.9.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 👍 Approved [#23](https://github.com/ParrotXray/lava-lyra/pull/23#pullrequestreview-3954508610) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 👍 Approved [#24](https://github.com/ParrotXray/lava-lyra/pull/24#pullrequestreview-3986078623) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/NetGuardia-Trainer](https://github.com/ParrotXray/NetGuardia-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
