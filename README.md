@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)<br>
-2. ⭐ Starred [GintsEngelen/CICFlowMeter](https://github.com/GintsEngelen/CICFlowMeter)<br>
-3. ⭐ Starred [GintsEngelen/WTMC2021-Code](https://github.com/GintsEngelen/WTMC2021-Code)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 👍 Approved [#26](https://github.com/ParrotXray/lava-lyra/pull/26#pullrequestreview-3998683553) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ⭐ Starred [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter)<br>
+2. ⭐ Starred [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)<br>
+3. ⭐ Starred [GintsEngelen/CICFlowMeter](https://github.com/GintsEngelen/CICFlowMeter)<br>
+4. ⭐ Starred [GintsEngelen/WTMC2021-Code](https://github.com/GintsEngelen/WTMC2021-Code)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
