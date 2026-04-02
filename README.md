@@ -109,7 +109,7 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [HELPMEEADICE/doge-code](https://github.com/HELPMEEADICE/doge-code)<br>
-2. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 3. 🍴 Forked [ParrotXray/claude-code-haha](https://github.com/ParrotXray/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
 4. ⭐ Starred [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter)<br>
 5. ⭐ Starred [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)<br>
