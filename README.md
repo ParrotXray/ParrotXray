@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HELPMEEADICE/doge-code](https://github.com/HELPMEEADICE/doge-code)<br>
-2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-3. 🍴 Forked [ParrotXray/claude-code-haha](https://github.com/ParrotXray/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
-4. ⭐ Starred [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter)<br>
-5. ⭐ Starred [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)<br>
+1. ⭐ Starred [sonos/tract](https://github.com/sonos/tract)<br>
+2. ⭐ Starred [HELPMEEADICE/doge-code](https://github.com/HELPMEEADICE/doge-code)<br>
+3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+4. 🍴 Forked [ParrotXray/claude-code-haha](https://github.com/ParrotXray/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
+5. ⭐ Starred [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
