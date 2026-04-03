@@ -111,7 +111,7 @@ const ParrotXray = {
 1. ⭐ Starred [sonos/tract](https://github.com/sonos/tract)<br>
 2. ⭐ Starred [HELPMEEADICE/doge-code](https://github.com/HELPMEEADICE/doge-code)<br>
 3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-4. 🍴 Forked [ParrotXray/claude-code-haha](https://github.com/ParrotXray/claude-code-haha) from [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)<br>
+4. 🍴 Forked [ParrotXray/claude-code-haha](https://github.com/ParrotXray/claude-code-haha) from [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)<br>
 5. ⭐ Starred [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter)<br>
 <!--RECENT_ACTIVITY:end-->
 
