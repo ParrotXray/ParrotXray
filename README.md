@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4265013936) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
-2. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4264705107) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
-3. ⭐ Starred [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs)<br>
-4. ⭐ Starred [sonos/tract](https://github.com/sonos/tract)<br>
-5. ⭐ Starred [HELPMEEADICE/doge-code](https://github.com/HELPMEEADICE/doge-code)<br>
+1. ⭐ Starred [ymirsky/Kitsune-py](https://github.com/ymirsky/Kitsune-py)<br>
+2. ⭐ Starred [ymirsky/KitNET-py](https://github.com/ymirsky/KitNET-py)<br>
+3. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4265013936) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
+4. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4264705107) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
+5. ⭐ Starred [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
