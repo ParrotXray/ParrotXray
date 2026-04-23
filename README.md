@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ymirsky/Kitsune-py](https://github.com/ymirsky/Kitsune-py)<br>
-2. ⭐ Starred [ymirsky/KitNET-py](https://github.com/ymirsky/KitNET-py)<br>
-3. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4265013936) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
-4. 💬 Commented on [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1#issuecomment-4264705107) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
-5. ⭐ Starred [tkob-vh/gfw-rs](https://github.com/tkob-vh/gfw-rs)<br>
+1. 🚀 Released [v0.1.1](https://github.com/ParrotXray/pool-manager/releases/tag/v0.1.1) in [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
+5. 🚀 Released [v0.1.0](https://github.com/ParrotXray/pool-manager/releases/tag/v0.1.0) in [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
