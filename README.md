@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v0.1.1](https://github.com/ParrotXray/pool-manager/releases/tag/v0.1.1) in [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
-5. 🚀 Released [v0.1.0](https://github.com/ParrotXray/pool-manager/releases/tag/v0.1.0) in [ParrotXray/pool-manager](https://github.com/ParrotXray/pool-manager)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+3. 🚀 Released [v0.1.0](https://github.com/ParrotXray/membridge/releases/tag/v0.1.0) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
