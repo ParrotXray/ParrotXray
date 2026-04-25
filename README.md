@@ -109,10 +109,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
-3. 🚀 Released [v0.1.0](https://github.com/ParrotXray/membridge/releases/tag/v0.1.0) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+2. 🚀 Released [v0.1.2](https://github.com/ParrotXray/membridge/releases/tag/v0.1.2) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+5. 🚀 Released [v0.1.1](https://github.com/ParrotXray/membridge/releases/tag/v0.1.1) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
