@@ -108,8 +108,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v1.0.0](https://github.com/ParrotXray/membridge/releases/tag/v1.0.0) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
+1. ⭐ Starred [jamieiles/80x86](https://github.com/jamieiles/80x86)<br>
+2. 🚀 Released [v1.0.0](https://github.com/ParrotXray/membridge/releases/tag/v1.0.0) in [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/membridge](https://github.com/ParrotXray/membridge)<br>
