@@ -108,11 +108,6 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
-2. 🚀 Released [3.0.0](https://github.com/ParrotXray/lavasrc-mod/releases/tag/3.0.0) in [ParrotXray/lavasrc-mod](https://github.com/ParrotXray/lavasrc-mod)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lavasrc-mod](https://github.com/ParrotXray/lavasrc-mod)<br>
-4. 💪 Opened PR [#4](undefined) in [ParrotXray/lavasrc-mod](https://github.com/ParrotXray/lavasrc-mod)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lavasrc-mod](https://github.com/ParrotXray/lavasrc-mod)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
