@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coreemu/core](https://github.com/coreemu/core)<br>
-2. ⭐ Starred [nsol-nmsu/FML-Network](https://github.com/nsol-nmsu/FML-Network)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/MIPS-Lab](https://github.com/ParrotXray/MIPS-Lab)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/MIPS-Lab](https://github.com/ParrotXray/MIPS-Lab)<br>
-5. ✔️ Closed issue [#1](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt/issues/1) in [ParrotXray/Building-OpenGFW-on-OpenWrt](https://github.com/ParrotXray/Building-OpenGFW-on-OpenWrt)<br>
+1. ⭐ Starred [rusticata/rusticata](https://github.com/rusticata/rusticata)<br>
+2. ⭐ Starred [ravivendra/rust-thesis-blatta-ids](https://github.com/ravivendra/rust-thesis-blatta-ids)<br>
+3. ⭐ Starred [snitch-ids/snitch](https://github.com/snitch-ids/snitch)<br>
+4. ⭐ Starred [guardsarm/rust-threat-detector](https://github.com/guardsarm/rust-threat-detector)<br>
+5. ⭐ Starred [coreemu/core](https://github.com/coreemu/core)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
