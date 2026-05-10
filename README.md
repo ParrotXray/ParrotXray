@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rusticata/rusticata](https://github.com/rusticata/rusticata)<br>
-2. ⭐ Starred [ravivendra/rust-thesis-blatta-ids](https://github.com/ravivendra/rust-thesis-blatta-ids)<br>
-3. ⭐ Starred [snitch-ids/snitch](https://github.com/snitch-ids/snitch)<br>
-4. ⭐ Starred [guardsarm/rust-threat-detector](https://github.com/guardsarm/rust-threat-detector)<br>
-5. ⭐ Starred [coreemu/core](https://github.com/coreemu/core)<br>
+1. ⭐ Starred [evan8686/EEW-Receiver](https://github.com/evan8686/EEW-Receiver)<br>
+2. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
+3. ⭐ Starred [rusticata/rusticata](https://github.com/rusticata/rusticata)<br>
+4. ⭐ Starred [ravivendra/rust-thesis-blatta-ids](https://github.com/ravivendra/rust-thesis-blatta-ids)<br>
+5. ⭐ Starred [snitch-ids/snitch](https://github.com/snitch-ids/snitch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
