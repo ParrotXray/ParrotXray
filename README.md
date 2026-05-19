@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [evan8686/EEW-Receiver](https://github.com/evan8686/EEW-Receiver)<br>
-2. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)<br>
-3. ⭐ Starred [rusticata/rusticata](https://github.com/rusticata/rusticata)<br>
-4. ⭐ Starred [ravivendra/rust-thesis-blatta-ids](https://github.com/ravivendra/rust-thesis-blatta-ids)<br>
-5. ⭐ Starred [snitch-ids/snitch](https://github.com/snitch-ids/snitch)<br>
+1. ⭐ Starred [gamemann/xdpstats-rs](https://github.com/gamemann/xdpstats-rs)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+5. ⭐ Starred [evan8686/EEW-Receiver](https://github.com/evan8686/EEW-Receiver)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
