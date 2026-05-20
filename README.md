@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gamemann/xdpstats-rs](https://github.com/gamemann/xdpstats-rs)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+1. ⭐ Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)<br>
+2. ⭐ Starred [gamemann/xdpstats-rs](https://github.com/gamemann/xdpstats-rs)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-5. ⭐ Starred [evan8686/EEW-Receiver](https://github.com/evan8686/EEW-Receiver)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
