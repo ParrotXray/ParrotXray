@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+2. ⭐ Starred [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-4. ⭐ Starred [wqLouis/linux-wallpaperengine](https://github.com/wqLouis/linux-wallpaperengine)<br>
-5. ⭐ Starred [jasonish/suricatax-rule-parser-rs](https://github.com/jasonish/suricatax-rule-parser-rs)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+5. ⭐ Starred [wqLouis/linux-wallpaperengine](https://github.com/wqLouis/linux-wallpaperengine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
