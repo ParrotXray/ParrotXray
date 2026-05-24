@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-2. ⭐ Starred [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+1. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
+3. ⭐ Starred [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
-5. ⭐ Starred [wqLouis/linux-wallpaperengine](https://github.com/wqLouis/linux-wallpaperengine)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/onnxruntime-builder](https://github.com/ParrotXray/onnxruntime-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
