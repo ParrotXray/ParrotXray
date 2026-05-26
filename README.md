@@ -109,10 +109,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
-2. 💪 Opened PR [#16](undefined) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+4. 💪 Opened PR [#16](undefined) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
