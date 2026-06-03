@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
-4. 🍴 Forked [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac) from [Unayung/wallpaper-engine-mac](https://github.com/Unayung/wallpaper-engine-mac)<br>
-5. ⭐ Starred [Unayung/wallpaper-engine-mac](https://github.com/Unayung/wallpaper-engine-mac)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/wallpaper-engine-mac](https://github.com/ParrotXray/wallpaper-engine-mac)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
