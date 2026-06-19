@@ -108,7 +108,7 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
