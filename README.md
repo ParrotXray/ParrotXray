@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+1. 🚀 Released [v2.0.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.0.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 👍 Approved [#29](https://github.com/ParrotXray/lava-lyra/pull/29#pullrequestreview-4560261179) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
