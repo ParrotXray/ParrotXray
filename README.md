@@ -108,10 +108,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#224](https://github.com/lavalink-devs/youtube-source/issues/224#issuecomment-5010857196) in [lavalink-devs/youtube-source](https://github.com/lavalink-devs/youtube-source)<br>
-2. ❗️ Opened issue [#224](https://github.com/lavalink-devs/youtube-source/issues/224) in [lavalink-devs/youtube-source](https://github.com/lavalink-devs/youtube-source)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/mac-wallpaperengine](https://github.com/ParrotXray/mac-wallpaperengine)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/mac-wallpaperengine](https://github.com/ParrotXray/mac-wallpaperengine)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+2. ⭐ Starred [xmoezzz/KrkrzExtract](https://github.com/xmoezzz/KrkrzExtract)<br>
+3. ⭐ Starred [xmoezzz/KrkrExtract](https://github.com/xmoezzz/KrkrExtract)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
