@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+1. 🍴 Forked [ParrotXray/NetDefender](https://github.com/ParrotXray/NetDefender) from [sinyuan1022/NetDefender](https://github.com/sinyuan1022/NetDefender)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
-5. 💪 Opened PR [#2](undefined) in [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
