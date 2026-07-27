@@ -108,8 +108,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [ParrotXray/NetDefender](https://github.com/ParrotXray/NetDefender) from [sinyuan1022/NetDefender](https://github.com/sinyuan1022/NetDefender)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+1. ⭐ Starred [zinzied/IDM-Freezer-Activation-Tool](https://github.com/zinzied/IDM-Freezer-Activation-Tool)<br>
+2. 🍴 Forked [ParrotXray/NetDefender](https://github.com/ParrotXray/NetDefender) from [sinyuan1022/NetDefender](https://github.com/sinyuan1022/NetDefender)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
