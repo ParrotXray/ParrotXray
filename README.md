@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [v2.1.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.1.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🚀 Released [v2.1.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.1.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 👍 Approved [#32](https://github.com/ParrotXray/lava-lyra/pull/32#pullrequestreview-4804724521) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+4. 👍 Approved [#33](https://github.com/ParrotXray/lava-lyra/pull/33#pullrequestreview-4814906700) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🚀 Released [v2.1.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.1.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
