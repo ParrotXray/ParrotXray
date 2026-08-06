@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FunctionHookTJU/old_wu_java-template-26.2](https://github.com/FunctionHookTJU/old_wu_java-template-26.2)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
-3. 💬 Commented on [#36](https://github.com/ParrotXray/lava-lyra/pull/36#issuecomment-5150301829) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 💬 Commented on [#36](https://github.com/ParrotXray/lava-lyra/pull/36#issuecomment-5150259614) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 💬 Commented on [#36](https://github.com/ParrotXray/lava-lyra/pull/36#issuecomment-5150224630) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. ❗️ Opened issue [#13](https://github.com/laobamac/MirageWallpaper/issues/13) in [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper)<br>
+2. ⭐ Starred [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper)<br>
+3. ⭐ Starred [FunctionHookTJU/old_wu_java-template-26.2](https://github.com/FunctionHookTJU/old_wu_java-template-26.2)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+5. 💬 Commented on [#36](https://github.com/ParrotXray/lava-lyra/pull/36#issuecomment-5150301829) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
