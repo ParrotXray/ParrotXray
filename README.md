@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#39](https://github.com/ParrotXray/lava-lyra/pull/39#issuecomment-5229668469) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. ❗️ Opened issue [#13](https://github.com/laobamac/MirageWallpaper/issues/13) in [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper)<br>
-3. ⭐ Starred [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper)<br>
-4. ⭐ Starred [FunctionHookTJU/old_wu_java-template-26.2](https://github.com/FunctionHookTJU/old_wu_java-template-26.2)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+1. 🚀 Released [v2.2.0](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.2.0) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 👍 Approved [#39](https://github.com/ParrotXray/lava-lyra/pull/39#pullrequestreview-4893231266) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 💬 Commented on [#39](https://github.com/ParrotXray/lava-lyra/pull/39#issuecomment-5234521926) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
