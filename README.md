@@ -109,10 +109,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 🚀 Released [v2.2.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.2.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 👍 Approved [#42](https://github.com/ParrotXray/lava-lyra/pull/42#pullrequestreview-4903562931) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 👍 Approved [#40](https://github.com/ParrotXray/lava-lyra/pull/40#pullrequestreview-4893959675) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🚀 Released [v2.2.1](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.2.1) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
