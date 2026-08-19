@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 👍 Approved [#48](https://github.com/ParrotXray/lava-lyra/pull/48#pullrequestreview-4957149669) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. ⭐ Starred [sdmj76/Mousecape-swiftUI](https://github.com/sdmj76/Mousecape-swiftUI)<br>
-4. ⭐ Starred [1Lucas1apk/gettoken](https://github.com/1Lucas1apk/gettoken)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 🚀 Released [v2.2.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.2.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 👍 Approved [#48](https://github.com/ParrotXray/lava-lyra/pull/48#pullrequestreview-4957149669) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. ⭐ Starred [sdmj76/Mousecape-swiftUI](https://github.com/sdmj76/Mousecape-swiftUI)<br>
+5. ⭐ Starred [1Lucas1apk/gettoken](https://github.com/1Lucas1apk/gettoken)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
