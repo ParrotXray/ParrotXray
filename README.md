@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/pycord-localizer](https://github.com/ParrotXray/pycord-localizer)<br>
-2. 🚀 Released [v0.2.0](https://github.com/ParrotXray/pycord-localizer/releases/tag/v0.2.0) in [ParrotXray/pycord-localizer](https://github.com/ParrotXray/pycord-localizer)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/pycord-localizer](https://github.com/ParrotXray/pycord-localizer)<br>
-4. 🚀 Released [v2.2.3](https://github.com/ParrotXray/lava-lyra/releases/tag/v2.2.3) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 💬 Commented on [#49](https://github.com/ParrotXray/lava-lyra/pull/49#discussion_r3842810122) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 👍 Approved [#49](https://github.com/ParrotXray/lava-lyra/pull/49#pullrequestreview-5006959028) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. 💬 Commented on [#49](https://github.com/ParrotXray/lava-lyra/pull/49#discussion_r3842720441) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/pycord-localizer](https://github.com/ParrotXray/pycord-localizer)<br>
+5. 🚀 Released [v0.2.0](https://github.com/ParrotXray/pycord-localizer/releases/tag/v0.2.0) in [ParrotXray/pycord-localizer](https://github.com/ParrotXray/pycord-localizer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
