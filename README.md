@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. 👍 Approved [#51](https://github.com/ParrotXray/lava-lyra/pull/51#pullrequestreview-5051020742) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-3. ⭐ Starred [kumud1001/AI-Cybersecurity-Analyzermodel](https://github.com/kumud1001/AI-Cybersecurity-Analyzermodel)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 👍 Approved [#50](https://github.com/ParrotXray/lava-lyra/pull/50#pullrequestreview-5030932299) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+5. 👍 Approved [#51](https://github.com/ParrotXray/lava-lyra/pull/51#pullrequestreview-5051020742) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
