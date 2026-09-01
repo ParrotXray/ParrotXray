@@ -109,10 +109,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+2. 🍴 Forked [ParrotXray/NetGuardia](https://github.com/ParrotXray/NetGuardia) from [DaLaw2/NetGuardia](https://github.com/DaLaw2/NetGuardia)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-5. 👍 Approved [#51](https://github.com/ParrotXray/lava-lyra/pull/51#pullrequestreview-5051020742) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
