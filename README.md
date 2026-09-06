@@ -108,8 +108,8 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
+1. 🚀 Released [1.4.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.4.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
