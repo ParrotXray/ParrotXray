@@ -112,7 +112,7 @@ const ParrotXray = {
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
-5. 🚀 Released [1.0.0](https://github.com/ParrotXray/Mantis-Suricata-Plugin/releases/tag/1.0.0) in [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
