@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
-5. 🚀 Released [1.4.1](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.4.1) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Suricata-Plugin](https://github.com/ParrotXray/Mantis-Suricata-Plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
