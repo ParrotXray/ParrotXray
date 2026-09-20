@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
+1. ⭐ Starred [chiakich/ChiaKey](https://github.com/chiakich/ChiaKey)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-4. ⭐ Starred [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. ⭐ Starred [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
