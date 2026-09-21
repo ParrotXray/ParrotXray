@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🚀 Released [1.4.2](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.4.2) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-5. ⭐ Starred [chiakich/ChiaKey](https://github.com/chiakich/ChiaKey)<br>
+1. ⭐ Starred [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)<br>
+2. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
+3. 🚀 Released [1.4.2](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.4.2) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
