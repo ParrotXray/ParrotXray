@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-3. ⭐ Starred [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows)<br>
-4. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
-5. 🚀 Released [1.4.2](https://github.com/ParrotXray/lavabili-plugin/releases/tag/1.4.2) in [ParrotXray/lavabili-plugin](https://github.com/ParrotXray/lavabili-plugin)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/CureOS](https://github.com/ParrotXray/CureOS)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
