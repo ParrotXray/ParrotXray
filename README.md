@@ -108,10 +108,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. ⭐ Starred [daivik007/Rooting-A70s](https://github.com/daivik007/Rooting-A70s)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
+1. ⭐ Starred [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. ⭐ Starred [daivik007/Rooting-A70s](https://github.com/daivik007/Rooting-A70s)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
