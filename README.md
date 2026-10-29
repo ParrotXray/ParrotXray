@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-2. ⭐ Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)<br>
-3. ⭐ Starred [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-5. ⭐ Starred [daivik007/Rooting-A70s](https://github.com/daivik007/Rooting-A70s)<br>
+1. 👍 Approved [#52](https://github.com/ParrotXray/lava-lyra/pull/52#pullrequestreview-5691976354) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
+4. ⭐ Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)<br>
+5. ⭐ Starred [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
