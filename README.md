@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#52](https://github.com/ParrotXray/lava-lyra/pull/52#pullrequestreview-5691976354) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
-2. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-4. ⭐ Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)<br>
-5. ⭐ Starred [dipa-studio/ios-sweet](https://github.com/dipa-studio/ios-sweet)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+2. 👍 Approved [#52](https://github.com/ParrotXray/lava-lyra/pull/52#pullrequestreview-5691976354) in [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+3. ⭐ Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
+5. ⭐ Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
