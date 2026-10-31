@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. 🚀 Released [1.1.0](https://github.com/ParrotXray/Mantis-Capture/releases/tag/1.1.0) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
-3. 💪 Opened PR [#2](undefined) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
-4. 💪 Opened PR [#1](undefined) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/lava-lyra](https://github.com/ParrotXray/lava-lyra)<br>
+1. 💪 Opened PR [#2](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+2. 💪 Opened PR [#1](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. 🚀 Released [1.1.0](https://github.com/ParrotXray/Mantis-Capture/releases/tag/1.1.0) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
+4. 💪 Opened PR [#2](undefined) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
+5. 💪 Opened PR [#1](undefined) in [ParrotXray/Mantis-Capture](https://github.com/ParrotXray/Mantis-Capture)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
