@@ -109,10 +109,10 @@ const ParrotXray = {
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. 💪 Opened PR [#9](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-3. 💪 Opened PR [#8](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-4. ⭐ Starred [OptiTronOffical/PS4-14.00-BD-JB](https://github.com/OptiTronOffical/PS4-14.00-BD-JB)<br>
-5. ⭐ Starred [fxgl/steamac](https://github.com/fxgl/steamac)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. 💪 Opened PR [#9](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+4. 💪 Opened PR [#8](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+5. ⭐ Starred [OptiTronOffical/PS4-14.00-BD-JB](https://github.com/OptiTronOffical/PS4-14.00-BD-JB)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
