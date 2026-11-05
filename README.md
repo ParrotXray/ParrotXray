@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-3. 💪 Opened PR [#9](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-4. 💪 Opened PR [#8](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-5. ⭐ Starred [OptiTronOffical/PS4-14.00-BD-JB](https://github.com/OptiTronOffical/PS4-14.00-BD-JB)<br>
+1. ⭐ Starred [ayoubnoob543-lab/Ps4-13.52-almost-jaibreak](https://github.com/ayoubnoob543-lab/Ps4-13.52-almost-jaibreak)<br>
+2. 💪 Opened PR [#10](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
