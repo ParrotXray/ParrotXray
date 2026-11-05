@@ -108,10 +108,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ayoubnoob543-lab/Ps4-13.52-almost-jaibreak](https://github.com/ayoubnoob543-lab/Ps4-13.52-almost-jaibreak)<br>
-2. 💪 Opened PR [#10](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+3. ⭐ Starred [ayoubnoob543-lab/Ps4-13.52-almost-jaibreak](https://github.com/ayoubnoob543-lab/Ps4-13.52-almost-jaibreak)<br>
+4. 💪 Opened PR [#10](undefined) in [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
