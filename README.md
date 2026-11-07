@@ -108,7 +108,7 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+1. ⭐ Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
 4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
