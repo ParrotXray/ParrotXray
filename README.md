@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Frontend](https://github.com/ParrotXray/Mantis-Frontend)<br>
+1. ⭐ Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)<br>
+2. ⭐ Starred [psmux/psmux](https://github.com/psmux/psmux)<br>
+3. ⭐ Starred [ayoubnoob543-lab/Ps4-13.52-almost-jaibreak](https://github.com/ayoubnoob543-lab/Ps4-13.52-almost-jaibreak)<br>
+4. ⭐ Starred [OptiTronOffical/PS4-14.00-BD-JB](https://github.com/OptiTronOffical/PS4-14.00-BD-JB)<br>
+5. ⭐ Starred [fxgl/steamac](https://github.com/fxgl/steamac)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
