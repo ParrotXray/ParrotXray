@@ -111,7 +111,7 @@ const ParrotXray = {
 1. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 2. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
-4. ⭐ Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis-Trainer](https://github.com/ParrotXray/Mantis-Trainer)<br>
 <!--RECENT_ACTIVITY:end-->
 
