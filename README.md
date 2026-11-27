@@ -108,11 +108,11 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Intreduce-for-Mantis](https://github.com/ParrotXray/Mantis/wiki/Intreduce-for-Mantis) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
-2. 📖 Created new wiki page [Home](https://github.com/ParrotXray/Mantis/wiki/Home) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
-3. ⭐ Starred [tuna2134-workspace/oxide-ml](https://github.com/tuna2134-workspace/oxide-ml)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+1. 📖 Created new wiki page [AF_XDP-and-XSK](https://github.com/ParrotXray/Mantis/wiki/AF_XDP-and-XSK) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+2. 📖 Created new wiki page [eBPF-XDP-in-Mantis](https://github.com/ParrotXray/Mantis/wiki/eBPF-XDP-in-Mantis) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+3. 📖 Created new wiki page [Intreduce-for-Mantis](https://github.com/ParrotXray/Mantis/wiki/Intreduce-for-Mantis) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+4. 📖 Created new wiki page [Home](https://github.com/ParrotXray/Mantis/wiki/Home) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+5. ⭐ Starred [tuna2134-workspace/oxide-ml](https://github.com/tuna2134-workspace/oxide-ml)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 📫 Connect with Me
