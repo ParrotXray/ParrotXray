@@ -108,10 +108,10 @@ const ParrotXray = {
 
 ## 🔥 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tuna2134-workspace/oxide-ml](https://github.com/tuna2134-workspace/oxide-ml)<br>
-2. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
-3. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
-4. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+1. 📖 Created new wiki page [Intreduce-for-Mantis](https://github.com/ParrotXray/Mantis/wiki/Intreduce-for-Mantis) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+2. 📖 Created new wiki page [Home](https://github.com/ParrotXray/Mantis/wiki/Home) in [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
+3. ⭐ Starred [tuna2134-workspace/oxide-ml](https://github.com/tuna2134-workspace/oxide-ml)<br>
+4. 🎯 Pushed undefined commit(s) to [ParrotXray/Seminar-I-Report-Section](https://github.com/ParrotXray/Seminar-I-Report-Section)<br>
 5. 🎯 Pushed undefined commit(s) to [ParrotXray/Mantis](https://github.com/ParrotXray/Mantis)<br>
 <!--RECENT_ACTIVITY:end-->
 
